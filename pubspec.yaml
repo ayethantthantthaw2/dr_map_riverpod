@@ -68,7 +68,7 @@ flutter:
   assets:
     - assets/svg/
     - assets/svg/map_assets/
-    - assets/svg/provinces
+    - assets/svg/provinces/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

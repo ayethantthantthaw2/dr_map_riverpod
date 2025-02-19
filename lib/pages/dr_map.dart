@@ -7,7 +7,12 @@ class DrMapScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: DrMapWidget(),
+      backgroundColor: const Color(0xFFC6ECFF),
+      body: Stack(
+        children: [
+          DrMapWidget(),
+        ],
+      ),
     );
   }
 }
