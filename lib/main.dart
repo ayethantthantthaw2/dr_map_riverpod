@@ -1,4 +1,4 @@
-import 'package:dr_map/pages/dr_map.dart';
+import 'package:dr_map/pages/dr_map_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
